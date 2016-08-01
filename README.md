@@ -19,4 +19,7 @@
     $ cd JSONAPIMaker
     $ npm install
     $ npm start
+    then you can add the ajax response processor under /router/*.js
+    and
+    you cam using ajax request in html-js file
     
