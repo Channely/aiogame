@@ -15,8 +15,8 @@
 - NodeJS(>=0.11) NPM
 
 ## Usage
-    $ git clone https://github.com/Channely/JAM.git JSONAPIMaker
-    $ cd JSONAPIMaker
+    $ git clone https://github.com/Channely/JAM.git
+    $ cd JAM
     $ npm install
     $ npm start
     then you can add the ajax response processor under /router/*.js
