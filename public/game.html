@@ -10,7 +10,7 @@
 var socket = io();
 socket.on('moving', onMovingEvent);
 function onMovingEvent(data){
-  // console.log(JSON.stringify(data));
+   console.log("onMovingEvent: \n" + JSON.stringify(data));
 }
 
 //Aliases
